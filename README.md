@@ -1,5 +1,7 @@
 # Game 01 – Snake
 
+**[Play on itch.io](https://yuzovi.itch.io/snake)**
+
 A classic Snake game built with [Godot Engine 4.6](https://godotengine.org/).
 
 > **AI-assisted project.** This game was developed with AI assistance as the first entry in a series of small Godot game projects.
